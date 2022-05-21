@@ -4,3 +4,5 @@ change font to monospace
 
 add scrollback patch
 add scrollback with mouse patch
+
+add anygeometry patch
