@@ -6,3 +6,7 @@ add scrollback patch
 add scrollback with mouse patch
 
 add anygeometry patch
+
+add newterm patch
+
+add font2 patch
